@@ -1,0 +1,16 @@
+C:\Users\Eneida Lame\Desktop\Project\Country\bin\Debug\net5.0\Country.exe
+C:\Users\Eneida Lame\Desktop\Project\Country\bin\Debug\net5.0\Country.deps.json
+C:\Users\Eneida Lame\Desktop\Project\Country\bin\Debug\net5.0\Country.runtimeconfig.json
+C:\Users\Eneida Lame\Desktop\Project\Country\bin\Debug\net5.0\Country.runtimeconfig.dev.json
+C:\Users\Eneida Lame\Desktop\Project\Country\bin\Debug\net5.0\Country.dll
+C:\Users\Eneida Lame\Desktop\Project\Country\bin\Debug\net5.0\ref\Country.dll
+C:\Users\Eneida Lame\Desktop\Project\Country\bin\Debug\net5.0\Country.pdb
+C:\Users\Eneida Lame\Desktop\Project\Country\obj\Debug\net5.0\Country.csprojAssemblyReference.cache
+C:\Users\Eneida Lame\Desktop\Project\Country\obj\Debug\net5.0\Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eneida Lame\Desktop\Project\Country\obj\Debug\net5.0\Country.AssemblyInfoInputs.cache
+C:\Users\Eneida Lame\Desktop\Project\Country\obj\Debug\net5.0\Country.AssemblyInfo.cs
+C:\Users\Eneida Lame\Desktop\Project\Country\obj\Debug\net5.0\Country.csproj.CoreCompileInputs.cache
+C:\Users\Eneida Lame\Desktop\Project\Country\obj\Debug\net5.0\Country.dll
+C:\Users\Eneida Lame\Desktop\Project\Country\obj\Debug\net5.0\ref\Country.dll
+C:\Users\Eneida Lame\Desktop\Project\Country\obj\Debug\net5.0\Country.pdb
+C:\Users\Eneida Lame\Desktop\Project\Country\obj\Debug\net5.0\Country.genruntimeconfig.cache
